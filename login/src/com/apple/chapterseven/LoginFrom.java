@@ -5,7 +5,7 @@ import javax.swing.*;
 public class LoginFrom {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Login Example");
-        frame.setSize(360, 240);
+        frame.setSize(350, 200);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JPanel panel = new JPanel();
