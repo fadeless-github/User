@@ -1,5 +1,10 @@
 package com.apple.chapterseven;
-
+/**
+ * @program:
+ * @Description:
+ * @author: xujunhao
+ * @date: 2019/11/6
+ */
 import javax.swing.*;
 
 public class LoginFrom {
