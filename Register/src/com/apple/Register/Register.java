@@ -1,5 +1,10 @@
 package com.apple.Register;
-
+/**
+ * @program:
+ * @Description:
+ * @author: xujunhao
+ * @date: 2019/11/7
+ */
 import javax.swing.*;
 
 public class Register {
